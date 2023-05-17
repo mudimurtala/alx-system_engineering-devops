@@ -1,2 +1,3 @@
 1 This scrip '0-hello_world' prints out the message 'Hello, World'.
 2 This script '1-confused_smiley' prints out the message "(Ôo)'.
+3 This script '2-hellofile' displays the contents of this file /etc/password.
