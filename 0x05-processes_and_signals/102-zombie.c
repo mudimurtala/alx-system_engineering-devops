@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include <sched.h>
 
 /**
  * infinite_while - creates an infinite loop to make the program hang
