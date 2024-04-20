@@ -1,0 +1,1 @@
+This folder is for practicing configuration management using Puppet(A configuration management tool written in Ruby Programming Language)
