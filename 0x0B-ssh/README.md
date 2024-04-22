@@ -1,0 +1,1 @@
+This repository contains solutions to this Alx SE Project "0x0B. SSH"
