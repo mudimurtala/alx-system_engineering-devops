@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function capitalize(str) {
+            if (str.length === 0) return ""; // Return an empty string if the input is empty
+
+            const firstLetter = str.charAt(0).toUpperCase(); // Get the first letter and convert it to uppercase
+            const restOfString = str.slice(1).toLowerCase(); // Get the rest of the string and convert it to lowercase
+
+            return firstLetter + restOfString; // Combine and return the result
+            }
+
+            // Test cases
+            console.log(capitalize("musa")); // "Hello"
+            console.log(capitalize("MUSA")); // "Hello"
+            console.log(capitalize("Musa")); // "Hello"
+            console.log(capitalize("mUSA")); // "Hello"
+            console.log(capitalize("")); // ""
+    </script>
+</body>
+</html>
