@@ -1,5 +1,7 @@
 # WeatherWise API Outage Postmortem
 
+WeatherWise is a website that empowers farmers with accurate weather insights
+
 ## Issue Summary
 
 **Duration of the Outage**:
