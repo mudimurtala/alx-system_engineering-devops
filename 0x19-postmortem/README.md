@@ -47,3 +47,11 @@ WeatherWise is a website that empowers farmers with accurate weather insights
 - [ ] Patch deployment script to include environment variable checks.
 - [ ] Add monitoring alerts for failed API authentication.
 - [ ] Conduct a review of recent deployments to ensure no similar issues exist.
+
+
+## An Example Image
+
+**Credit**:
+www.powerslides.com
+
+![Postmortem image](./image1.webp)
